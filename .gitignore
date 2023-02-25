@@ -2,9 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/ApiAso/bin/Debug/net6.0
-/.vs/ApiAso/DesignTimeBuild
-/.vs/ApiAso/FileContentIndex
-/ApiAso/obj
 /.vs
-/ApiAso
+/obj
+/bin/Debug/net6.0
